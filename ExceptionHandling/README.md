@@ -2,5 +2,5 @@
 
 - [x] Exercise 1: Handling Checked and Unchecked Exceptions
 - [x] Exercise 2: Utilizing Nested Try-Catch Blocks
-- [ ] Exercise 3: Releasing Resources with finally Block
+- [x] Exercise 3: Releasing Resources with finally Block
 - [ ] Exercise 4: Creating a Custom Exception
