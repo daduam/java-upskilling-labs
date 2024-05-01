@@ -1,6 +1,6 @@
 # IL Wk1 Lab1 - Advanced Java Features
 
-- [ ] Exercise 1: Implement a Design Pattern
+- [x] Exercise 1: Implement a Design Pattern
 - [ ] Exercise 2: Leverage Inner Classes for Data Encapsulation
 - [ ] Exercise 3: Create a Generic Method for Data Validation
 - [ ] Exercise 4: Design a Generic Class for Stack Data Structure
