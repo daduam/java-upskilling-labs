@@ -1,4 +1,4 @@
-package com.kforkojo.advancedjavafeatures.exercise1;
+package kforkojo.advancedjavafeatures.exercise1;
 
 public class TxtDocument implements Document {
 

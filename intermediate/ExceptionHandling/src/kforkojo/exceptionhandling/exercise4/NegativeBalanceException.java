@@ -1,4 +1,4 @@
-package com.kforkojo.exceptionhandling.exercise4;
+package kforkojo.exceptionhandling.exercise4;
 
 public class NegativeBalanceException extends Exception {
 

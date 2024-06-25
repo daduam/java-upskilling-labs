@@ -1,4 +1,4 @@
-package com.kforkojo.exceptionhandling;
+package kforkojo.exceptionhandling;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -7,7 +7,7 @@ import java.io.FileReader;
 public class Exercise3 {
 
     public static void main(String[] args) throws Exception {
-        String filename = "sentence.txt";
+        String filename = "ExceptionHandling/sentence.txt";
         BufferedReader reader = null;
 
         try {

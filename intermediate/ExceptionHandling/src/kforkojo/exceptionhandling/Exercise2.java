@@ -1,4 +1,4 @@
-package com.kforkojo.exceptionhandling;
+package kforkojo.exceptionhandling;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -7,7 +7,7 @@ import java.io.IOException;
 public class Exercise2 {
 
     public static void main(String[] args) throws Exception {
-        String filename = "numbers.txt";
+        String filename = "ExceptionHandling/numbers.txt";
         BufferedReader reader = null;
 
         try {

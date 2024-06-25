@@ -1,4 +1,4 @@
-package com.kforkojo.exceptionhandling;
+package kforkojo.exceptionhandling;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
